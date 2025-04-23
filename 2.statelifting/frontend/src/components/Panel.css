@@ -1,0 +1,8 @@
+.panel-container{
+    height:8rem;
+    width:50rem;
+    background-color:rgb(121, 64, 64);
+    padding:8px;
+    border:2px solid orange;
+    border-radius:5px;
+}

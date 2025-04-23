@@ -1,0 +1,26 @@
+.counter-container{
+    height:140px;
+    width:230px;
+    display:flex;
+    flex-direction:column;
+    background-color:white;
+    justify-content: center;
+    align-items:center;
+    gap:20px;
+    border-radius:0.7rem;  
+}
+#cnt{
+   color:black;
+   font-weight: 500;
+}
+button{
+    color:white;
+    border:1px solid black;
+    background-color:rgb(8, 163, 240);
+    border-radius:.7rem;
+    padding:8px;
+    cursor:pointer;
+}
+button:hover{
+    background-color:rgb(1, 118, 177);
+}

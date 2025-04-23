@@ -1,0 +1,11 @@
+#btn{
+    height:2rem;
+    width:9rem;
+    border:2px solid rgb(0, 179, 255);
+    background-color:rgb(70, 194, 243);
+}
+#btn:hover{
+    border:2px solid blue;
+    background-color:rgb(15, 94, 125);
+    color:white;
+}

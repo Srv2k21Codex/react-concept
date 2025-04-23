@@ -1,0 +1,10 @@
+
+.toolbar{
+  width:49rem;
+  height:5rem;
+  background-color:antiquewhite;
+  display:flex;
+  padding:10px;
+  place-content: left;
+  align-items: center;
+}
