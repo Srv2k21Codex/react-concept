@@ -1,0 +1,9 @@
+.error-input{
+  border-color: red;
+  outline:none;
+  
+}
+.err-msg{
+  color:red;
+  font-weight: 500;
+}
